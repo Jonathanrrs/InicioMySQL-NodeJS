@@ -9,4 +9,4 @@ Paquetes utilizados:
 * mysql
 * ejs
 * method_override
-![Jonathan Ruiz](https://repository-images.githubusercontent.com/277197768/8acb5100-be21-11ea-98fd-baa7cfc57c61")
+![Jonathan Ruiz](https://repository-images.githubusercontent.com/277197768/8acb5100-be21-11ea-98fd-baa7cfc57c61)
